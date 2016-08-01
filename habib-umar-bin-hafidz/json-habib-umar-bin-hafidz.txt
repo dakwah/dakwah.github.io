@@ -1,0 +1,8 @@
+	{
+        "id": "xxx",
+        "murobbi": "<a data-balloon-length=\"medium\" data-balloon=\"Habib Umar bin Muhammad bin Salim bin Hafidz\" data-balloon-pos=\"right\"><img src=\"assets/habib-umar-bin-muhammad-bin-salim-bin-hafidz.jpg\" height=\"26\" width=\"26\" class=\"foto\"></a>",
+		"tema": "xxx",
+		"durasi": "xxx Jam xxx Menit xxx Detik",
+		"link": "<a href=\"../habib-umar-bin-hafidz/xxx.html\"><button class=\"btn btn-xs green\"><i class=\"fa fa-youtube-play\"></i>&nbsp;&nbsp;Video&nbsp;&nbsp;|&nbsp;&nbsp;<i class=\"fa fa-headphones\"></i>&nbsp;&nbsp;Audio </button></a> <a target=\"popup\"><button class=\"btn btn-xs white\" data-balloon=\"Unduh MP3\" data-balloon-pos=\"up\"><i class=\"fa fa-download\"></i></button></a>",
+		"berbagi": "<a target=\"_blank\" href=\"https://www.addtoany.com/share#url=xxx&title=xxx\"><img src=\"assets/social/share.svg\"></a>"
+	},
