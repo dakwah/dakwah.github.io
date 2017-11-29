@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="198" viewBox="0 0 210 198">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="-4" y="-2" width="220" height="203" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="20" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.325"/>
+      <feFlood result="flood" flood-color="#87d1e9" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="35.0938" y="17" width="140" height="124" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjEyNCIgdmlld0JveD0iMCAwIDE0MCAxMjQiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6IHVybCgjbGluZWFyLWdyYWRpZW50KTsKICAgICAgfQogICAgPC9zdHlsZT4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iNzAiIHgyPSI3MCIgeTI9IjEyNCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9Ii0wLjI1IiBzdG9wLWNvbG9yPSIjODdkMWU5Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMS4yNSIgc3RvcC1jb2xvcj0iIzAxYWRkNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjEyNCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="M133.923,17H76.249a12.337,12.337,0,0,0-10.676,6.136L36.735,72.864a12.226,12.226,0,0,0,0,12.273l28.838,49.728A12.337,12.337,0,0,0,76.249,141h57.674a12.337,12.337,0,0,0,10.676-6.136l28.838-49.728a12.226,12.226,0,0,0,0-12.273L144.6,23.136A12.337,12.337,0,0,0,133.923,17Z"/>
+  <path class="cls-2" d="M128.83,65.965v14.3l2.577-2.578a1.994,1.994,0,0,1,2.82,2.82l-5.981,5.983a1.994,1.994,0,0,1-2.82,0l-5.981-5.983a1.993,1.993,0,0,1,2.818-2.82L125,80.429v-14.3l-7.554-7.555a2,2,0,0,1,0-2.82l7.976-7.977a2,2,0,0,1,2.82,0l7.974,7.977a1.991,1.991,0,0,1,0,2.82Zm-1.994-13.958-5.157,5.157,5.157,5.155,5.155-5.155ZM106.312,64.555a1.994,1.994,0,0,1-2.82-2.82l2.69-2.688H93.01A1.8,1.8,0,0,1,92.754,59a9.943,9.943,0,1,1-.012-3.791,1.653,1.653,0,0,1,.2-0.04h13.132l-2.58-2.578a1.995,1.995,0,0,1,2.82-2.822l5.983,5.983a2,2,0,0,1,0,2.82ZM82.97,51.181a5.982,5.982,0,1,0,5.981,5.983A5.989,5.989,0,0,0,82.97,51.181Zm-7.977,39.88h5.983V77.929L78.4,80.507a1.994,1.994,0,1,1-2.819-2.82l5.981-5.981a1.991,1.991,0,0,1,2.82,0l5.981,5.981a1.994,1.994,0,0,1-2.819,2.82l-2.578-2.578V91.061h5.983a1.994,1.994,0,0,1,1.994,1.994v15.951A1.993,1.993,0,0,1,90.947,111H74.994A1.993,1.993,0,0,1,73,109.006V93.055A1.994,1.994,0,0,1,74.994,91.061Zm1.994,15.952H88.951V95.049H76.987v11.964Zm49.849-15.952a9.969,9.969,0,1,1-9.97,9.971A9.982,9.982,0,0,1,126.836,91.061Zm0,15.952a5.982,5.982,0,1,0-5.981-5.981A5.988,5.988,0,0,0,126.836,107.013Z"/>
+</svg>
