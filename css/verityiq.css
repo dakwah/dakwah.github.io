@@ -2010,6 +2010,29 @@
   background-color: #f8f7f6;
 }
 
+.success-message {
+  background-color: transparent;
+}
+
+.text-block {
+  margin-top: 40px;
+  color: #1cd179;
+}
+
+.error-message {
+  margin-top: 30px;
+  background-color: transparent;
+  color: #fd5a3b;
+}
+
+.text-block-2 {
+  text-align: center;
+}
+
+.right-hero-second {
+  width: 45%;
+}
+
 @media (max-width: 991px) {
   .top {
     height: auto;
@@ -2377,10 +2400,6 @@
     width: 100%;
   }
   .right-hero {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
     width: 100%;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
@@ -2692,6 +2711,17 @@
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+  }
+  .right-hero-second {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
   }
 }
 
@@ -3562,4 +3592,3 @@
     padding-left: 0px;
   }
 }
-
