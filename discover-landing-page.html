@@ -65,7 +65,7 @@
             });
         </script>
 </head>
-<body class="body">
+<body class="body" onload="document.getElementById("button1").disabled = true;">
   <div data-w-id="dbe5b0fd-d8da-849d-5b6e-1e05685ae244" style="-webkit-transform:translateX(0) translateY(-1500PX) translateZ(0) scaleX(1) scaleY(1) scaleZ(1) rotateX(0) rotateY(0) rotateZ(0) skewX(0) skewY(0);-moz-transform:translateX(0) translateY(-1500PX) translateZ(0) scaleX(1) scaleY(1) scaleZ(1) rotateX(0) rotateY(0) rotateZ(0) skewX(0) skewY(0);-ms-transform:translateX(0) translateY(-1500PX) translateZ(0) scaleX(1) scaleY(1) scaleZ(1) rotateX(0) rotateY(0) rotateZ(0) skewX(0) skewY(0);transform:translateX(0) translateY(-1500PX) translateZ(0) scaleX(1) scaleY(1) scaleZ(1) rotateX(0) rotateY(0) rotateZ(0) skewX(0) skewY(0);opacity:0" class="top">
     <div data-collapse="medium" data-animation="default" data-duration="0" data-w-id="98dfcefb-52fd-8439-9d9a-df0331bd9e54" class="navbar w-nav">
       <div data-w-id="4e6dfef7-1e7b-73d7-38f1-92f830f4c91e" style="-webkit-transform:translateX(0) translateY(-50PX) translateZ(0) scaleX(1) scaleY(1) scaleZ(1) rotateX(0) rotateY(0) rotateZ(0) skewX(0) skewY(0);-moz-transform:translateX(0) translateY(-50PX) translateZ(0) scaleX(1) scaleY(1) scaleZ(1) rotateX(0) rotateY(0) rotateZ(0) skewX(0) skewY(0);-ms-transform:translateX(0) translateY(-50PX) translateZ(0) scaleX(1) scaleY(1) scaleZ(1) rotateX(0) rotateY(0) rotateZ(0) skewX(0) skewY(0);transform:translateX(0) translateY(-50PX) translateZ(0) scaleX(1) scaleY(1) scaleZ(1) rotateX(0) rotateY(0) rotateZ(0) skewX(0) skewY(0);opacity:0" class="div-navbar"><a href="index.html" class="brand w-nav-brand"><img src="images/logo.svg" width="150" class="logo"></a><a href="tel:+18777881541" class="link-block-phone w-inline-block"><img src="images/telephone-1.svg" class="icon-phone-top w-hidden-tiny"><div class="text-phone-top">+1 877 788 1541</div></a></div>
@@ -83,10 +83,10 @@
             </div><label for="Full-Name-2" class="field-label">Full Name</label><input type="text" class="text-field w-input" maxlength="256" autofocus="true" name="Full-Name" data-name="Full Name" placeholder="Enter your full name" id="Full-Name-2" required="">
             <label for="Company" class="field-label">Company</label><input type="text" class="text-field w-input" maxlength="256" name="Company" data-name="Company" placeholder="The name of your company" id="Company" required="">
             <label for="Email-3" class="field-label">Email Address</label><input type="email" class="text-field w-input" maxlength="256" name="Email" data-name="Email" placeholder="Enter your email adress" id="Email-3" required=""><label for="Phone-Number" class="field-label">Phone Number</label><input type="text" class="text-field w-input" maxlength="256" name="Phone-Number" data-name="Phone Number" placeholder="Enter your phone number" id="Phone-Number" required=""><label for="Message" class="field-label">Your Message</label><textarea id="Message" name="Message" placeholder="I would like a demo to learn more about your product." maxlength="5000" data-name="Message" class="textarea w-input"></textarea>
-            <div class="recaptcha"><span class="msg-error error"></span>
-              <div id="recaptcha" align="center" class="g-recaptcha" data-sitekey="6LfJSTwUAAAAAFTvFoi7bHhvmp1uAAZdm5jk7t0R"></div>
+            <div class="recaptcha">
+              <div align="center" class="g-recaptcha" data-sitekey="6LfJSTwUAAAAAFTvFoi7bHhvmp1uAAZdm5jk7t0R" data-callback="enableBtn"></div>
             </div>
-            <input type="submit" value="Request a Demo" id="btn-validate" data-wait="Please wait..." class="big-button-red-form w-button"></form>
+            <input type="submit" value="Request a Demo" id="button1" data-wait="Please wait..." class="big-button-red-form w-button"></form>
           <div class="w-form-done">
             <div>Thank you! Your submission has been received!</div>
           </div>
