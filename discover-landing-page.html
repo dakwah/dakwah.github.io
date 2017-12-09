@@ -21,17 +21,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular.js"></script>
 
         <script>
-
-
-        function capenable() {
-            $('capsubmit').set('disabled', false);
-        }
-        function capdisable() {
-            $('capsubmit').set('disabled', true);
-        }
-        window.addEvent('domready', function(){
-            capdisable();
-        });
+document.getElementById("button1").disabled = true;
             var app = angular.module('testApp', ['vcRecaptcha']);
             app.controller('testCtrl', function ($scope, vcRecaptchaService) {
                 console.log("this is your app's controller");
@@ -73,6 +63,9 @@
                     }
                 };
             });
+            function enableBtn(){
+   document.getElementById("button1").disabled = false;
+  }
         </script>
 </head>
 <body class="body">
@@ -94,9 +87,9 @@
             <label for="Company" class="field-label">Company</label><input type="text" class="text-field w-input" maxlength="256" name="Company" data-name="Company" placeholder="The name of your company" id="Company" required="">
             <label for="Email-3" class="field-label">Email Address</label><input type="email" class="text-field w-input" maxlength="256" name="Email" data-name="Email" placeholder="Enter your email adress" id="Email-3" required=""><label for="Phone-Number" class="field-label">Phone Number</label><input type="text" class="text-field w-input" maxlength="256" name="Phone-Number" data-name="Phone Number" placeholder="Enter your phone number" id="Phone-Number" required=""><label for="Message" class="field-label">Your Message</label><textarea id="Message" name="Message" placeholder="I would like a demo to learn more about your product." maxlength="5000" data-name="Message" class="textarea w-input"></textarea>
             <div class="recaptcha">
-              <div align="center" class="g-recaptcha" data-sitekey="6LfJSTwUAAAAAFTvFoi7bHhvmp1uAAZdm5jk7t0R" data-callback="capenable" data-expired-callback="capdisable"></div>
+              <div align="center" class="g-recaptcha" data-sitekey="6LfJSTwUAAAAAFTvFoi7bHhvmp1uAAZdm5jk7t0R" data-callback="enableBtn"></div>
             </div>
-            <input type="submit" value="Request a Demo" id="capsubmit" data-wait="Please wait..." class="big-button-red-form w-button"></form>
+            <input type="submit" value="Request a Demo" id="button1" data-wait="Please wait..." class="big-button-red-form w-button"></form>
           <div class="w-form-done">
             <div>Thank you! Your submission has been received!</div>
           </div>
