@@ -60,6 +60,22 @@
                 };
             });
 
+            $( '#btn-validate' ).click(function(){
+  var $captcha = $( '#recaptcha' ),
+      response = grecaptcha.getResponse();
+
+  if (response.length === 0) {
+    $( '.msg-error').text( "reCAPTCHA is mandatory" );
+    if( !$captcha.hasClass( "error" ) ){
+      $captcha.addClass( "error" );
+    }
+  } else {
+    $( '.msg-error' ).text('');
+    $captcha.removeClass( "error" );
+    alert( 'reCAPTCHA marked' );
+  }
+})
+
         </script>
 </head>
 <body class="body">
@@ -90,9 +106,10 @@
               <label class="field-label">Your Message</label>
               <textarea placeholder="I would like a demo to learn more about your product." maxlength="5000" data-name="" id="" class="textarea w-input"></textarea>
               <div class="recaptcha w-embed">
-                <div vc-recaptcha="" theme="'light'" key="model.key" on-create="setWidgetId(widgetId)" on-success="setResponse(response)" on-expire="cbExpiration()" align="center" class="g-recaptcha" data-sitekey="6LfJSTwUAAAAAFTvFoi7bHhvmp1uAAZdm5jk7t0R"></div>
+                <span class="msg-error error"></span>
+                <div vc-recaptcha="" id="recaptcha" theme="'light'" key="model.key" on-create="setWidgetId(widgetId)" on-success="setResponse(response)" on-expire="cbExpiration()" align="center" class="g-recaptcha" data-sitekey="6LfJSTwUAAAAAFTvFoi7bHhvmp1uAAZdm5jk7t0R"></div>
               </div>
-              <input type="submit" value="Request a Demo" data-wait="Please wait..." id="" class="big-button-red-form w-button">
+              <input type="submit" value="Request a Demo" data-wait="Please wait..." id="btn-validate" class="big-button-red-form w-button">
             </form>
             <div class="success-message w-form-done">
               <div class="text-block">Thank you! Your submission has been received!</div>
