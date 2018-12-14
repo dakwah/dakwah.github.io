@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html data-wf-page="5a21aa99b0ef6a00015e7501" data-wf-site="5a161d77ca1ffe00016031fb">
+<head>
+  <meta charset="utf-8">
+  <title>About Us</title>
+  <meta content="Verity Chat" property="og:title">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="verityiq" name="generator">
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+  <script src="https://media.twiliocdn.com/sdk/js/chat/v1.0/twilio-chat.js"></script> <!--needed for chat functionality-->
+  <script src="js/twilioChat/twilioChatCustomerAddon.js" type="text/javascript"></script>
+  
+</head>
+<body class="body">
+ <div class="main-modal-content" chat-content-customer>   <!--chat-content-customer IS used in script  twilioChatCustomerAddon.js to find the container-->
+    <!--Hidden fields will be used to store info-->
+    <input id="PrivateChannelSid" name="ChannelSid" type="hidden" value="">
+    <input data-val="true" data-val-number="The field Campus Id must be a number." data-val-required="The Campus Id field is required." id="ChatCampusId" name="CampusId" type="hidden" value="0">
+    <input data-val="true" data-val-number="The field School Id must be a number." data-val-required="The School Id field is required." id="ChatSchoolId" name="SchoolId" type="hidden" value="0">
+    <input id="CustomerIdentity" name="CustomerIdentity" type="hidden" value="">
+
+    <div class="modal-scroll">
+        <div class="modal-header modal-header-warning">
+            <div class="modal-header-options">
+                <button start-chat-customer="">Start Chat</button> <!--start-chat-customer is used in the script-->
+                    <label hidden="hidden" class="simple-label">Choose Campus</label>
+                    <select hidden="hidden"  id="CampusSelect"> <!--CampusSelect ID is used in the script-->
+                    </select>
+                <button campus-selected hidden="hidden">Select Campus</button> <!--campus-selected is used in the script-->
+                <button end-chat-customer="" hidden="hidden">End Chat</button> <!--end-chat-customer is used in the script-->
+             </div>
+
+            <div class="modal-title">Chat Conversation</div>
+            </div>
+            <div class="modal-body customer">
+                <section data-chat-customer-conversation=""> <!--data-chat-customer-conversation is used in the scripts js*-->
+                    <div class="sms-chat-customer"> <!--sms-chat-customer class is used in the scripts to append messages.*-->
+                        <div class="chat-customer-footer">
+                            <div class="row" data-chat-customer-area=""> <!--data-chat-customer-area is used in the scripts*-->
+                                <div class="col-md-12">
+                                    <textarea class="initial-message" cols="20" data-val="true" maxlength="500" id="customer-chat-textarea" placeholder="Enter text" rows="2">
+                                    </textarea><!--id="customer-chat-textarea" is used in the script to get the new messages typed. *-->
+                                </div>
+                            </div>
+                            <div class="card-footer text-xs-right">
+                                <button type="button" class="btn btn-secondary-outline" data-clear-chat-customer="" style="display: none;">Cancel</button> <!--data-clear-chat-customer is used in the script*-->
+                                <button type="button" class="btn btn-success " data-send-chat-customer="" style="display: none;">Send</button> <!--data-send-chat-customer is used also in the script*-->
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

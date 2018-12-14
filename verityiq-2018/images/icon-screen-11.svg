@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-screen</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FBD16B" offset="0%"></stop>
+            <stop stop-color="#F5BE02" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="43" cy="33" r="24"></circle>
+        <filter x="-72.9%" y="-52.1%" width="245.8%" height="245.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.984313725   0 0 0 0 0.819607843   0 0 0 0 0.419607843  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon-screen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+        </g>
+        <g id="single-man-news" transform="translate(31.000000, 21.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6">
+            <path d="M1.71427714,18.8570893 C0.767513795,18.8570893 -4.28571418e-06,18.0895712 -4.28571418e-06,17.1428079 L-4.28571418e-06,1.714275 C-4.28571418e-06,0.767511653 0.767513795,-6.42857146e-06 1.71427714,-6.42857146e-06 L22.2856543,-6.42857146e-06 C23.2324176,-6.42857146e-06 23.9999357,0.767511653 23.9999357,1.714275 L23.9999357,17.1428079 C23.9999357,18.0895712 23.2324176,18.8570893 22.2856543,18.8570893 L1.71427714,18.8570893 Z" id="Path"></path>
+            <path d="M11.9999657,18.8570893 L11.9999657,22.2856521" id="Path"></path>
+            <path d="M3.42855857,22.2856521 L20.5713729,22.2856521" id="Path"></path>
+            <polygon id="Path" points="3.42855857 3.42855643 8.57140286 3.42855643 8.57140286 8.57140071 3.42855857 8.57140071"></polygon>
+            <path d="M18.4416639,4.55827932 C19.9479687,6.06458412 19.9479687,8.50678373 18.4416639,10.0130885 C16.9353591,11.5193933 14.4931595,11.5193933 12.9868547,10.0130885 C11.4805499,8.50678373 11.4805499,6.06458412 12.9868547,4.55827932 C14.4931595,3.05197451 16.9353591,3.05197451 18.4416639,4.55827932" id="Path"></path>
+            <path d="M21.1428002,15.4273839 C18.8023032,12.4292771 14.4745083,11.8961698 11.4764015,14.2366668 C11.0322849,14.58337 10.6323911,14.9832638 10.2856845,15.4273839" id="Path"></path>
+            <path d="M19.5713754,7.41254647 L19.5713757,7.41254636 C18.8748095,7.61327043 18.1534364,7.71484046 17.4285239,7.71425989 L17.4285242,7.71425989 C15.4941634,7.71713486 13.6298937,6.99028227 12.2079659,5.67883641" id="Path"></path>
+        </g>
+    </g>
+</svg>

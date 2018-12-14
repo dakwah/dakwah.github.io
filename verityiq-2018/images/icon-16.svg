@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="218" height="200" viewBox="0 0 218 200">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" x="-1" y="-1" width="220" height="203" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="20" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.325"/>
+      <feFlood result="flood" flood-color="#87d1e9" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="38.125" y="18" width="140.031" height="124" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTQwLjAzMSIgaGVpZ2h0PSIxMjQiIHZpZXdCb3g9IjAgMCAxNDAuMDMxIDEyNCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI3MC4wMTYiIHgyPSI3MC4wMTYiIHkyPSIxMjQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSItMC4yNSIgc3RvcC1jb2xvcj0iIzg3ZDFlOSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEuMjUiIHN0b3AtY29sb3I9IiMwMWFkZDciLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjE0MC4wMzEiIGhlaWdodD0iMTI0Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <path class="cls-1" d="M136.955,18H79.279A12.337,12.337,0,0,0,68.6,24.14L39.764,73.865a12.225,12.225,0,0,0,0,12.272L68.6,135.861A12.337,12.337,0,0,0,79.279,142h57.676a12.336,12.336,0,0,0,10.676-6.136L176.47,86.136a12.22,12.22,0,0,0,0-12.272L147.632,24.14A12.335,12.335,0,0,0,136.955,18Z"/>
+  <path class="cls-2" d="M137.97,76.021a2,2,0,0,1-2-2,22,22,0,0,0-21.958-21.987,2,2,0,1,1,0-4,26,26,0,0,1,25.95,25.983A2,2,0,0,1,137.97,76.021Zm-7.985,0a2,2,0,1,1-3.992,0A14,14,0,0,0,112.018,62.03a2,2,0,0,1,0-4A18,18,0,0,1,129.985,76.021Zm-33.415-2.3,17.748,17.769,8.648-5.246a1.99,1.99,0,0,1,2.331.19l13.975,11.994a2,2,0,0,1,.2,2.838l-7.891,8.986c-0.028.032-.112,0.118-0.144,0.148a5.915,5.915,0,0,1-4.362,1.6c-6.833,0-19.436-8.022-31.359-19.957C82.445,78.751,72,62.3,77.709,56.58l9.027-8.036a1.95,1.95,0,0,1,1.46-.5,2,2,0,0,1,1.378.688l12.041,13.992a2,2,0,0,1,.194,2.342Zm-8.7-20.839L80.5,59.432c-2.366,2.376,3.458,15.184,18.036,29.785C110.859,101.548,122.22,108,127.075,108a2.291,2.291,0,0,0,1.54-.43l6.523-7.428L123.8,90.411l-8.749,5.308a1.991,1.991,0,0,1-2.446-.3L92.64,75.437a2.005,2.005,0,0,1-.3-2.452l5.3-8.75Z"/>
+</svg>

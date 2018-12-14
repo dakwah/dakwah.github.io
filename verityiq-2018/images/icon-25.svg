@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="101px" viewBox="0 0 108 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#A9A3DF" offset="0%"></stop>
+            <stop stop-color="#665EC5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M69.5003155,28.5723755 L53.6272331,1.78292431 C52.9702711,0.674988362 51.7663407,-0.00497232777 50.4684158,2.73831859e-05 L19.1012292,0.129019926 C17.8033042,0.135019579 16.6083733,0.823979748 15.9674104,1.93791535 L0.474306072,28.8553592 C-0.166656872,29.9682948 -0.157657392,31.3392156 0.499304627,32.4481515 L16.372387,59.2366027 C17.029349,60.3445387 18.2332794,61.0244994 19.5312043,61.0194997 L50.8983909,60.8905071 C52.1963159,60.8855074 53.3912468,60.1965472 54.0322097,59.0826116 L69.525314,32.1641679 C70.1672769,31.0512322 70.1572775,29.6803115 69.5003155,28.5723755" id="path-2"></path>
+        <filter x="-50.0%" y="-41.0%" width="200.0%" height="214.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.660949349   0 0 0 0 0.640758276   0 0 0 0 0.875082254  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(19.000000, 10.000000)">
+            <g id="Fill-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="analytics-pie-2" transform="translate(20.000000, 15.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.999995">
+                <path d="M16.999955,0.9999975 L16.999955,12.9999675 L28.999925,12.9999675 C28.999925,6.37257074 23.6273518,0.9999975 16.999955,0.9999975 Z" id="Path"></path>
+                <path d="M12.999965,18.9999525 L12.999965,6.9999825 L12.9999645,6.9999825 C6.3725677,7.00055557 1.00046113,12.3735957 1.00103447,19.0009925 C1.00160754,25.6283893 6.3746477,31.0004958 13.0020445,30.9999225 C15.6903444,30.99969 18.3007112,30.0967701 20.4146126,28.4359289 L12.999965,18.9999525 Z" id="Path"></path>
+                <path d="M28.9999292,16.9999575 L16.999955,16.9999575 L24.4146031,26.4359339 C27.3120493,24.1625129 29.0029651,20.6828416 28.9999292,16.9999575 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

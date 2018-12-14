@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="101px" viewBox="0 0 108 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FBD16B" offset="0%"></stop>
+            <stop stop-color="#F5BE02" offset="100%"></stop>
+        </linearGradient>
+        <path d="M69.5003155,28.5723755 L53.6272331,1.78292431 C52.9702711,0.674988362 51.7663407,-0.00497232777 50.4684158,2.73831859e-05 L19.1012292,0.129019926 C17.8033042,0.135019579 16.6083733,0.823979748 15.9674104,1.93791535 L0.474306072,28.8553592 C-0.166656872,29.9682948 -0.157657392,31.3392156 0.499304627,32.4481515 L16.372387,59.2366027 C17.029349,60.3445387 18.2332794,61.0244994 19.5312043,61.0194997 L50.8983909,60.8905071 C52.1963159,60.8855074 53.3912468,60.1965472 54.0322097,59.0826116 L69.525314,32.1641679 C70.1672769,31.0512322 70.1572775,29.6803115 69.5003155,28.5723755" id="path-2"></path>
+        <filter x="-50.0%" y="-41.0%" width="200.0%" height="214.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.984313725   0 0 0 0 0.819607843   0 0 0 0 0.419607843  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(19.000000, 11.000000)">
+            <g id="Fill-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="app-window-search-text" transform="translate(19.000000, 15.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.999995">
+                <path d="M25.9630018,16.0542265 C28.6966616,18.7878864 28.6966616,23.2200353 25.9630018,25.9536951 C23.2293419,28.6873549 18.797193,28.6873549 16.0635332,25.9536951 C13.3298733,23.2200353 13.3298733,18.7878864 16.0635332,16.0542265 C18.797193,13.3205667 23.2293419,13.3205667 25.9630018,16.0542265" id="Path"></path>
+                <path d="M31.0132558,30.9999225 L25.9599351,25.9599351" id="Path"></path>
+                <path d="M29.0132608,11.0039725 L29.0132608,3.00399249 C29.0132608,1.89942592 28.1178324,1.00399749 27.0132658,1.00399749 L3.0133258,1.00399749 C1.90875914,1.00399754 1.01333071,1.89942592 1.01333071,3.00399249 C1.01333071,3.00399249 1.01333071,3.00399249 1.01333071,3.00399249 L1.01333071,25.0039375 L1.01333071,25.0039372 C1.01333055,26.1085038 1.90875914,27.0039322 3.01332571,27.0039322 L13.0133007,27.0039322" id="Path"></path>
+                <path d="M1.0133308,6.9999825 L29.0132608,6.9999825" id="Path"></path>
+                <path d="M5.0133208,12.9999675 L13.0133008,12.9999675" id="Path"></path>
+                <path d="M5.0133208,16.9999575 L9.0133108,16.9999575" id="Path"></path>
+                <path d="M5.0133208,20.9999475 L9.0133108,20.9999475" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

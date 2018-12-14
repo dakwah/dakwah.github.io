@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="175" viewBox="0 0 175 175">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #f9c948;
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+    <filter id="filter" x="0" y="0" width="175" height="175" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="20" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.325"/>
+      <feFlood result="flood" flood-color="#fbd16b" flood-opacity="0.5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feImage preserveAspectRatio="none" x="39" y="19" width="96" height="96" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCA5NiA5NiI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI0OCIgeDI9IjQ4IiB5Mj0iOTYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSItMC4yNSIgc3RvcC1jb2xvcj0iI2ZiZDE2YiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEuMjUiIHN0b3AtY29sb3I9IiNmNWJlMDEiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2Ii8+Cjwvc3ZnPgo="/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <circle class="cls-1" cx="87" cy="67" r="48"/>
+  <path class="cls-2" d="M106.392,80.1l-6.6,10a1.99,1.99,0,0,1-3.006.374l-5.352-4.9a2,2,0,0,1,2.685-2.954l3.635,3.326,5.316-8.052a1.987,1.987,0,0,1,2.763-.564A2.008,2.008,0,0,1,106.392,80.1ZM79.033,77h-4.01V73h4.01v4Zm-4.01-20h4.01v4h-4.01V57Zm4.01,12h-4.01V65h4.01v4Zm13.639,8H84.7a2,2,0,0,1,0-4h7.97A2,2,0,0,1,92.672,77Zm0-16H84.7a2,2,0,0,1,0-4h7.97A2,2,0,0,1,92.672,61Zm0,8H84.7a2,2,0,0,1,0-4h7.97A2,2,0,0,1,92.672,69Zm8.072,4a1.74,1.74,0,0,1-1.66-2V51H93.706a5.211,5.211,0,0,1-4.11,2H80.014a5.211,5.211,0,0,1-4.11-2H70.857V87H84.806a2,2,0,0,1,0,4H68.866A1.889,1.889,0,0,1,67,89V49a1.889,1.889,0,0,1,1.863-2h5.977V45a2,2,0,0,1,1.993-2H92.774a2,2,0,0,1,1.993,2v2h5.977a2.331,2.331,0,0,1,2.35,2V71A2.331,2.331,0,0,1,100.744,73ZM90.783,47H78.827v1a1.121,1.121,0,0,0,1.187,1H89.6a1.121,1.121,0,0,0,1.187-1V47Z"/>
+</svg>

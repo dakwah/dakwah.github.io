@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="101px" viewBox="0 0 108 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FDB5AB" offset="0%"></stop>
+            <stop stop-color="#FE5939" offset="100%"></stop>
+        </linearGradient>
+        <path d="M69.5003155,28.5723755 L53.6272331,1.78292431 C52.9702711,0.674988362 51.7663407,-0.00497232777 50.4684158,2.73831859e-05 L19.1012292,0.129019926 C17.8033042,0.135019579 16.6083733,0.823979748 15.9674104,1.93791535 L0.474306072,28.8553592 C-0.166656872,29.9682948 -0.157657392,31.3392156 0.499304627,32.4481515 L16.372387,59.2366027 C17.029349,60.3445387 18.2332794,61.0244994 19.5312043,61.0194997 L50.8983909,60.8905071 C52.1963159,60.8855074 53.3912468,60.1965472 54.0322097,59.0826116 L69.525314,32.1641679 C70.1672769,31.0512322 70.1572775,29.6803115 69.5003155,28.5723755" id="path-2"></path>
+        <filter x="-50.0%" y="-41.0%" width="200.0%" height="214.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.992884696   0 0 0 0 0.70900017   0 0 0 0 0.671653211  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(19.000000, 10.000000)">
+            <g id="Fill-1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="Group-29" transform="translate(20.000000, 15.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M1.7167,30.7836 C1.1837,30.7836 0.6497,30.3836 0.6497,29.7166 L0.6497,25.7166 C0.6497,25.1826 1.0497,24.6496 1.7167,24.6496 L17.7167,24.6496 C18.2497,24.6496 18.7827,25.0506 18.7827,25.7166 L18.7827,29.7166 C18.7827,30.2506 18.3837,30.7836 17.7167,30.7836 L1.7167,30.7836 Z" id="Stroke-1"></path>
+                <path d="M13.7167,20.7836 C13.1837,20.7836 12.6497,20.3836 12.6497,19.7166 L12.6497,15.7166 C12.6497,15.1836 13.0497,14.6496 13.7167,14.6496 L29.7167,14.6496 C30.2497,14.6496 30.7827,15.0506 30.7827,15.7166 L30.7827,19.7166 C30.7827,20.2506 30.3837,20.7836 29.7167,20.7836 L13.7167,20.7836 Z" id="Stroke-3"></path>
+                <path d="M1.7167,6.7832 C1.1837,6.7832 0.6497,6.3832 0.6497,5.7172 L0.6497,1.7172 C0.6497,1.1832 1.0497,0.6502 1.7167,0.6502 L17.7167,0.6502 C18.2497,0.6502 18.7827,1.0502 18.7827,1.7172 L18.7827,5.7172 C18.7827,6.2502 18.3837,6.7832 17.7167,6.7832 L1.7167,6.7832 Z" id="Stroke-5"></path>
+                <path d="M8.7831,6.7832 L8.7831,8.7832 C8.7831,9.8502 9.7171,10.7832 10.7831,10.7832 L16.7831,10.7832 C17.8491,10.7832 18.7831,11.7172 18.7831,12.7832 L18.7831,14.7832" id="Stroke-7"></path>
+                <path d="M24.7831,20.7836 L24.7831,26.7836 C24.7831,27.8496 23.8491,28.7836 22.7831,28.7836 L18.7831,28.7836" id="Stroke-9"></path>
+                <path d="M28.5165,4.5166 C29.4505,5.4506 29.4505,6.9166 28.5165,7.8496 C27.5825,8.7836 26.1175,8.7836 25.1835,7.8496 C24.2495,6.9166 24.2495,5.4506 25.1835,4.5166 C26.1175,3.5836 27.5825,3.5836 28.5165,4.5166" id="Stroke-11"></path>
+                <path d="M26.9169,2.25 L26.9169,3.85" id="Stroke-13"></path>
+                <path d="M29.3163,6.25 L30.9173,6.25" id="Stroke-15"></path>
+                <path d="M26.9169,8.6499 L26.9169,10.2499" id="Stroke-17"></path>
+                <path d="M24.5165,6.25 L22.9165,6.25" id="Stroke-19"></path>
+                <path d="M29.7167,3.3168 L28.6507,4.3828" id="Stroke-21"></path>
+                <path d="M28.5165,7.85 L29.5825,8.916" id="Stroke-23"></path>
+                <path d="M25.1835,7.85 L24.1175,8.916" id="Stroke-25"></path>
+                <path d="M25.1835,4.5166 L24.1175,3.4506" id="Stroke-27"></path>
+            </g>
+        </g>
+    </g>
+</svg>
