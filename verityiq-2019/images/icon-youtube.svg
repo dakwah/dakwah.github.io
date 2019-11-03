@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Youtube</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-1291.000000, -512.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g transform="translate(265.000000, 497.000000)" id="Group-2">
+                <g transform="translate(966.000000, 11.000000)">
+                    <path d="M83.775,8.375 C83.775,8.375 83.55,6.725 82.8,5.975 C81.9,5 80.85,5 80.4,4.925 C77.025,4.7 72,4.7 72,4.7 L72,4.7 C72,4.7 66.975,4.7 63.6,4.925 C63.15,5 62.1,5 61.2,5.975 C60.45,6.725 60.225,8.375 60.225,8.375 C60.225,8.375 60,10.325 60,12.275 L60,14.075 C60,16.025 60.225,17.975 60.225,17.975 C60.225,17.975 60.45,19.625 61.2,20.375 C62.1,21.35 63.3,21.275 63.825,21.425 C65.775,21.65 72,21.65 72,21.65 C72,21.65 77.025,21.65 80.4,21.425 C80.85,21.35 81.9,21.35 82.8,20.375 C83.55,19.625 83.775,17.975 83.775,17.975 C83.775,17.975 84,16.025 84,14.075 L84,12.275 C84,10.325 83.775,8.375 83.775,8.375 Z M69.525,16.325 L69.525,9.5 L75.975,12.875 L69.525,16.325 Z" id="Youtube"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
